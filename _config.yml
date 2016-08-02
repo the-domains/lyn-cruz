@@ -1,4 +1,3 @@
-layout_spectrum: 0.8131392488721758
 typography_spectrum: 0.9077215653378516
 color:
   brandStrength: 0.3223353549838066
@@ -11,7 +10,9 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8131392488721758
 name: 'Lyn Cruz '
+title: '` This & that . '
 description: >-
   ` Fill your life with experiences, not things. Have stories to tell, not stuff
   to show. 
