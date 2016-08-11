@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-11T05:46:32.921Z'
+datePublished: '2016-08-11T06:00:42.058Z'
 sourcePath: _posts/2016-08-02-hello-there-.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac863b15-f66c-424f-9720-b39300793e08.png
 author: []
 via: {}
-dateModified: '2016-08-11T05:46:32.165Z'
+dateModified: '2016-08-11T06:00:41.046Z'
 title: Hello there ...
 publisher: {}
 description: 'Before anything else, I thought I’d start by introducing myself.'
