@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-02T13:18:15.227Z'
+datePublished: '2016-08-11T05:46:32.921Z'
 sourcePath: _posts/2016-08-02-hello-there-.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac863b15-f66c-424f-9720-b39300793e08.png
 author: []
 via: {}
-dateModified: '2016-08-02T13:18:14.525Z'
-title: 'Hello there ... '
+dateModified: '2016-08-11T05:46:32.165Z'
+title: Hello there ...
 publisher: {}
 description: 'Before anything else, I thought I’d start by introducing myself.'
 starred: false
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Hello there ... 
+# Hello there ...
 
 Before anything else, I thought I'd start by introducing myself.
 
