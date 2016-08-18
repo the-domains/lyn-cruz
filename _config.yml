@@ -12,6 +12,10 @@ color:
     - '#160600'
 layout_spectrum: 0.8131392488721758
 name: 'Lyn Cruz '
+navigation:
+  - name: 'About me. '
+    id: 482fb060-16fb-495c-8ebd-0fbd553fda16
+    type: content
 title: '` This & that . '
 description: >-
   ` Fill your life with experiences, not things. Have stories to tell, not stuff
