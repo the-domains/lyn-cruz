@@ -12,6 +12,10 @@ color:
     - '#160600'
 layout_spectrum: 0.8131392488721758
 name: 'Lyn Cruz '
+navigation:
+  - name: Blog
+    id: 3ffff5e1-ef84-4675-b586-7f577e93edaa
+    type: content
 title: '` This & that . '
 description: >-
   ` Fill your life with experiences, not things. Have stories to tell, not stuff
